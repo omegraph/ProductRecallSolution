@@ -465,3 +465,4 @@ C:\ElevenFiftyProjects\FinalProject\ProductRecall.WebMVC\obj\Debug\ProductRecall
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.WebMVC\obj\Debug\ProductRecall.WebMVC.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.WebMVC\obj\Debug\ProductRecall.WebMVC.dll
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.WebMVC\obj\Debug\ProductRecall.WebMVC.pdb
+C:\ElevenFiftyProjects\FinalProject\ProductRecall.WebMVC\obj\Debug\ProductRecall.WebMVC.csproj.CopyComplete

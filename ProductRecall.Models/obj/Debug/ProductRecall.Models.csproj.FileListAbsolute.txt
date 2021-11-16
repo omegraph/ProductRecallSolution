@@ -71,6 +71,5 @@ C:\ElevenFiftyProjects\FinalProject\ProductRecall.Models\bin\Debug\Microsoft.Asp
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Models\obj\Debug\ProductRecall.Models.csproj.AssemblyReference.cache
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Models\obj\Debug\ProductRecall.Models.csproj.CoreCompileInputs.cache
-C:\ElevenFiftyProjects\FinalProject\ProductRecall.Models\obj\Debug\ProductRecall.Models.csproj.CopyComplete
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Models\obj\Debug\ProductRecall.Models.dll
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Models\obj\Debug\ProductRecall.Models.pdb

@@ -66,9 +66,8 @@ C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\bin\Debug\EntityFramework
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.AssemblyReference.cache
-C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.Migrations.InitialMigration.resources
-C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.GenerateResource.cache
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.CoreCompileInputs.cache
-C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.dll
 C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.pdb
+C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.Migrations.initialMigration.resources
+C:\ElevenFiftyProjects\FinalProject\ProductRecall.Data\obj\Debug\ProductRecall.Data.csproj.GenerateResource.cache
