@@ -16,7 +16,6 @@ namespace ProductRecall.Services
             var entity =
             new Recall()
             {
-                //ProductName = model.ProductName,
                 RecallTitle = model.RecallTitle,
                 RecallDateStart = model.RecallDateStart,
                 RecallDateEnd = model.RecallDateEnd,
@@ -79,7 +78,6 @@ namespace ProductRecall.Services
 
                 var entity = ctx.Products.Where(x => x.ManufacturerId == id);
 
-                //entity.ToList().ForEach(x => productList { ProductId = x.ProductId, Name =x.ProductName});
 
                 foreach (var item in entity.ToList())
                 {
@@ -101,7 +99,6 @@ namespace ProductRecall.Services
                         .Recalls
                         .Single(e => e.RecallId == model.RecallId);
 
-                //entity.ProductName = model.ProductName;
                 entity.RecallTitle = model.RecallTitle;
                 entity.RecallDateStart = model.RecallDateStart;
                 entity.RecallDateEnd = model.RecallDateEnd;
